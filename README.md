@@ -1,0 +1,2 @@
+# Skrypty
+Zadania ze skryptow
